@@ -1,0 +1,39 @@
+.center {
+    text-align: center;
+}
+
+.calculator-button {
+    background-color: lightgrey;
+    border-width: 1px;
+    border-color: gray;
+    margin: 3px;
+}
+
+.calculator-button:hover {
+    background-color: gray;
+    border-color: black;
+}
+
+#Buttonforanswer {
+    background-color: whitesmoke;
+    border-width: 2px;
+    border-color: red;
+    margin: 3px;
+}
+
+#Buttonforanswer:hover {
+    background-color: red;
+    border-color: black;
+}
+
+.aligned2 {
+    text-align: center;
+}
+
+.fixed {
+    height: 20px;
+}
+
+#Body {
+    background-color: rgb(99, 111, 173);
+}
