@@ -9,6 +9,10 @@
     margin: 3px;
 }
 
+.new {
+    background: blue;
+}
+
 .calculator-button:hover {
     background-color: gray;
     border-color: black;
